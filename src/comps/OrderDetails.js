@@ -28,7 +28,6 @@ const OrderDetails = ({cart}) => {
         <>
         <div>Total Order Sum: {totalSum()} consisting {cartProducts.length} products</div>
             <div>I'm a div</div>
-            <div>suck my dick</div>
         </>
     )
 }

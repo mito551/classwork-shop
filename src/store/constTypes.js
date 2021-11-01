@@ -1,3 +1,5 @@
 export const FETCH_CATEGORY = 'FETCH_CATEGORY'
 export const FETCH_PRODUCTS = 'FETCH_PRODUCTS'
+export const FETCH_CARTS = 'FETCH_CARTS'
+export const FETCH_USERS = 'FETCH_USERS'
 export const FETCH_ERROR = 'FETCH_ERROR'
